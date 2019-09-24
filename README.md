@@ -1,2 +1,2 @@
 # PyMoor
-It’s a gut repository or NARDY_MOORA’s project on python
+It’s a git repository or NARDY_MOORA’s project on python
